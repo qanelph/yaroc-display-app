@@ -155,7 +155,7 @@ export default function Index() {
         <div className="flex items-end justify-between mb-16 border-b border-stone-900 pb-6">
           <div>
             <p className="text-xs tracking-[0.3em] uppercase text-stone-400 mb-3">Selected</p>
-            <h2 className="font-display text-5xl font-light">Work</h2>
+            <h2 className="font-display text-5xl font-light">Workkk</h2>
           </div>
           <span className="text-sm text-stone-400 font-light">{projects.length} projects</span>
         </div>
